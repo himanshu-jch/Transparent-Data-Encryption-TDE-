@@ -1,1 +1,0 @@
-# Transparent-Data-Encryption-TDE-
